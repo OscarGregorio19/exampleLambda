@@ -1,0 +1,12 @@
+/home/goyo/Descargas/rai/src/main/java/com/aouhi/rai/repository/TaNewsRepository.java
+/home/goyo/Descargas/rai/src/main/java/com/aouhi/rai/entity/TaNews.java
+/home/goyo/Descargas/rai/src/main/java/com/aouhi/rai/service/INewsService.java
+/home/goyo/Descargas/rai/src/main/java/com/aouhi/rai/model/Response.java
+/home/goyo/Descargas/rai/src/main/java/com/aouhi/rai/model/Request.java
+/home/goyo/Descargas/rai/src/main/java/com/aouhi/rai/controller/RaiController.java
+/home/goyo/Descargas/rai/src/main/java/com/aouhi/rai/lambda/LambdaHandler.java
+/home/goyo/Descargas/rai/src/main/java/com/aouhi/rai/handler/SaveNewsHandler.java
+/home/goyo/Descargas/rai/src/main/java/com/aouhi/rai/handler/UpperCaseStringHandler.java
+/home/goyo/Descargas/rai/src/main/java/com/aouhi/rai/RaiApplication.java
+/home/goyo/Descargas/rai/src/main/java/com/aouhi/rai/service/impl/NewsServicesImpl.java
+/home/goyo/Descargas/rai/src/main/java/com/aouhi/rai/lambda/LambdaSaveNews.java

@@ -1,0 +1,12 @@
+com/aouhi/rai/entity/TaNews.class
+com/aouhi/rai/handler/UpperCaseStringHandler.class
+com/aouhi/rai/model/Request.class
+com/aouhi/rai/service/INewsService.class
+com/aouhi/rai/repository/TaNewsRepository.class
+com/aouhi/rai/service/impl/NewsServicesImpl.class
+com/aouhi/rai/controller/RaiController.class
+com/aouhi/rai/RaiApplication.class
+com/aouhi/rai/lambda/LambdaSaveNews.class
+com/aouhi/rai/lambda/LambdaHandler.class
+com/aouhi/rai/handler/SaveNewsHandler.class
+com/aouhi/rai/model/Response.class
